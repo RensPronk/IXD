@@ -1,0 +1,20 @@
+#page { 
+max-width: 1200px;
+min-width:300px;
+margin:0 auto;
+position:relative;
+background-color:red;
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+body {
+background-color:yellow;
+}
+
+
+#midden {
+	background-color:blue;
+	size:100%;
+}
